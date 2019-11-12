@@ -24,3 +24,14 @@ h3 {
   text-transform: none;
   letter-spacing: 0.01em;
 }
+
+.btn {
+  font: 900 1em "Raleway", sans-serif;
+  color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  text-transform: none;
+  letter-spacing: 0.01em;
+  padding: 10px;
+  background-color: aquamarine;
+  border: none;
+}
